@@ -75,8 +75,8 @@ h3{
     width: 100%;
     top: 0;
     left: 0;
-    background-color: hsl(277, 64%, 61%);
-    opacity: 0.3;
+    background-color: hsl(277, 72%, 42%);
+    opacity: 0.6;
     position: absolute;  
     border-radius: 0 12px 12px 0;
 }
@@ -85,4 +85,5 @@ img {
     height: 100%;
     width: 100%;
     border-radius: 0 12px 12px 0;
+
 }
